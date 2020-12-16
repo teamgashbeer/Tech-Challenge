@@ -10,14 +10,14 @@
       "code": 0,
       "title": "Painting",
       "description": "Look at this beautiful painting",
-      "image": "https://raw.githubusercontent.com/AmirrezaRotamian/Technical-Challenges/master/assets/sky.jpg",
+      "image": "https://raw.githubusercontent.com/AmirrezaRotamian/Tech-Challenge/master/assets/sky.jpg",
       "tag": "art"
     },
     {
       "code": 2,
       "title": "Let's have fun",
       "description": "Listen to the music",
-      "sound": "https://raw.githubusercontent.com/AmirrezaRotamian/Technical-Challenges/master/assets/sound.mp3",
+      "sound": "https://raw.githubusercontent.com/AmirrezaRotamian/Tech-Challenge/master/assets/sound.mp3",
       "tag": "fun"
     },
     {
@@ -30,7 +30,7 @@
       "code": 0,
       "title": "Sports",
       "description": "Have you ever played one of theses sports?",
-      "image": "https://raw.githubusercontent.com/AmirrezaRotamian/Technical-Challenges/master/assets/sport.jpg",
+      "image": "https://raw.githubusercontent.com/AmirrezaRotamian/Tech-Challenge/master/assets/sport.jpg",
       "tag": "sport"
     }
   ]
