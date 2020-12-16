@@ -26,7 +26,7 @@ Cards can be shown in different themes meaning they will use a different icon an
 
 You can choose your desired icon and color for each theme.
 
-You should initialize cards list from this URL: [https://raw.githubusercontent.com/AmirrezaRotamian/Technical-Challenges/master/tempelate.json](https://raw.githubusercontent.com/AmirrezaRotamian/Technical-Challenges/master/tempelate.json)
+You should initialize cards list from this URL: [https://raw.githubusercontent.com/AmirrezaRotamian/Tech-Challenge/master/tempelate.json](https://raw.githubusercontent.com/AmirrezaRotamian/Tech-Challenge/master/tempelate.json)
 
 ## Expectations
 
