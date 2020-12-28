@@ -1,6 +1,18 @@
 // Top-level build file where you can add configuration options common to all sub-projects/modules.
 buildscript {
-    ext.kotlin_version = "1.4.21"
+    ext {
+        kotlin_version = KOTLIN_VERSION
+        coroutinesVersion = COROUTINES_VERSION
+        koinVersion = KOIN_VERSION
+        retrofitVersion = RETROFIT_VERSION
+        roomVersion = ROOM_VERSION
+        okhttp3LogInterceptor = OKHTTP3LOGINTERCEPTOR_VERSION
+        architectureComponents = ARHITECTURECOMPONENTS_VERSION
+        mockitoVersion = MOCKITO_VERSION
+        version_pagingination = PAGING_VERSION
+        glide_version=GLIDE_VERSION
+        version_kotlin_coroutines_adapter=COROUTINES_ADAPTER_VERSION
+    }
     repositories {
         google()
         jcenter()
